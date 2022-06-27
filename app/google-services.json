@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826031136503",
+    "project_id": "taxikotlin-d859d",
+    "storage_bucket": "taxikotlin-d859d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826031136503:android:f2f12e74332262d0bffdf2",
+        "android_client_info": {
+          "package_name": "com.ksusha.vel.taxik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826031136503-rbeqdfd8tmg20o5q5q8e02nvigo2cna0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ksusha.vel.taxik",
+            "certificate_hash": "236a64eb3941f81ea1f7418d45142084dc93f72e"
+          }
+        },
+        {
+          "client_id": "826031136503-fu34t97n62912cdmsk1am2hgnq49oe95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBNZajTgts-0jHVyqL4veO-JulnVZg3sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826031136503-fu34t97n62912cdmsk1am2hgnq49oe95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

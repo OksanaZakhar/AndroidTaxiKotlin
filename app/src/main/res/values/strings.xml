@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaxiK</string>
+
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="i_am_client">I am Client</string>
+    <string name="i_am_driver">I am Driver</string>
+    <string name="title_activity_client_maps">ClientMapsActivity</string>
+    <string name="title_activity_driver_maps">DriverMapsActivity</string>
+    <string name="settings">Settings</string>
+    <string name="sing_out">Sing Out</string>
+    <string name="order_the_taxi">Order the taxi</string>
+</resources>
